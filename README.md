@@ -1,20 +1,19 @@
 # Så knäcker vi SD-koden -- En handbok för dig som vill göra skillnad
 
----
-
 All text är licensierad under en Creative Commons Erkännande 4.0 Internationell Licens (CC BY 4.0) av Nätverket för progressiv samhällsutveckling. Det betyder att du får sprida, kopiera och ändra texten så länge Nätverket för progressiv samhällsutveckling erkänns som skapare. Läs mer på [https://creativecommons.org/licenses/by/4.0/deed.sv].
 
 Så knäcker vi SD-koden -- en handbok för dig som vill göra skillnad är utgiven av Nätverket för progressiv samhällsutveckling, [www.nfps.se]
 
-Målet är att Så knäcker vi SD-koden ska vara en handbok som ständigt utvecklas. Har du fler goda exempel eller idéer? Tycker du att vi har missat något? Hör av dig till [info@nfps.se]. Det här är bara början.
+Målet är att Så knäcker vi SD-koden ska vara en handbok som ständigt utvecklas. Har du fler goda exempel eller idéer? Tycker du att vi har missat något? Hör av dig till [info@nfps.se] eller bidra med text direkt till vårt [GitHub Repo](https://github.com/NFPSse/sd-koden). Det här är bara början.
 
 ## Innehåll
-- [Det handlar om Sverige](#det-handlar-om-Sverige)
+- [Det handlar om Sverige](#det-handlar-om-sverige)
 - [Håll ihop](#håll-ihop)
 - [Skapa framtidstro](#skapa-framtidstro)
 - [Bemöt oron](#bemöt-oron)
 - [Stå upp för dina värderingar](#stå-upp-för-dina-värderingar)
 - [Hur vinner vi debatten mot SD?](#hur-vinner-vi-debatten-mot-sd)
+- [Källor](#källor)
 
 ## Det handlar om Sverige
 **Inte Sverigedemokraterna**
@@ -46,7 +45,8 @@ Tillsammans knäcker vi SD-koden.
 *Magnus Manhammar & Ida Harju Håkansson,
 Nätverket för progressiv samhällsutveckling*
 
-## Håll ihop -- Klyftorna måste minska
+## Håll ihop
+**Klyftorna måste minska**
 
 Vi vet att växande klyftor och ett ojämlikt sam­hälle ger oss ett otryggt sam­hälle. Det skapar ett sam­hälle som får svårare att hålla samman.
 
@@ -164,7 +164,8 @@ Sverige är ett litet land. Vi har aldrig och kommer aldrig att klara oss utan i
 
 Hur kan du och din förening bidra till att nyanlända kommer in i ert lokalsamhälle? Finns det exempelvis möjlighet att vara språkvän i din kommun?
 
-## Stå upp för dina värderingar -- På arbetsplatsen, i skolorna, på fritiden
+## Stå upp för dina värderingar
+**På arbetsplatsen, i skolorna, på fritiden**
 
 En del svenskar har eller accepterar intoleranta värderingar. Det kan vara rena rasistiska åsikter som gör att Sverige­demokraternas politik lockar, men det kan också handla om att man inte ser partiets nazistiska rötter eller den rasistiska politiken som till­räckligt avskräckande. 
 
@@ -227,13 +228,21 @@ Att anpassa sin politik eller retorik efter SD är inte bara för­kastligt. Det
 ## Källor
 
 [1]: Statistiska centralbyrån, 31.01.2018: Inkomsterna ökade 2005-2016, och mest för kvinnor. scb.se
+
 [2]: OECD, 2015: OECD Income inequality data update: Sweden. oecd.org
+
 [3]: Hanell, Tove, 12.05.2018: Var du bor avgör när du dör. svt.se
+
 [4]: Statistiska centralbyrån, 2018: Förväntad medellivslängd 2013-2017 jämfört med 2008-2012. scb.se
-[5]: Regeringskansliet, 19.12.2017: Fortsatt konjunkturuppgång nästa år.
-regeringen.se
+
+[5]: Regeringskansliet, 19.12.2017: Fortsatt konjunkturuppgång nästa år. regeringen.se
+
 [6]: Kjellgren, Torsten, 2017: Reformer är möjliga – Tre fullt finansierade reformer för ett mer rättvist och jämlikt Sverige. Tankesmedjan Tiden
+
 [7]: Nyköpings kommun, 2018: Nyköpingsmodellen. nykoping.se
+
 [8]: Leich, Sabine Hanna & Kruse, Wolfgang, 1991: Internationalismus und nationale Interessenvertretung. Zur Geschichte der internationalen Gewerkschaftsbewegung. Köln.
+
 [9]: Statistiska centralbyrån, 2016: Förtroendevalda i kommuner och landsting 2015 (Demokratistatistik rapport 22). Stockholm: SCB
+
 [10]: Segerstedtinstitutet, 2018: Toleransprojektet. segerstedtinstitutet.gu.se
