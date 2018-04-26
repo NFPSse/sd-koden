@@ -227,22 +227,42 @@ Att anpassa sin politik eller retorik efter SD är inte bara för­kastligt. Det
 
 ## Källor
 
-[1]: Statistiska centralbyrån, 31.01.2018: Inkomsterna ökade 2005-2016, och mest för kvinnor. scb.se
+[1]: http://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/inkomster-och-inkomstfordelning/inkomster-och-skatter/pong/statistiknyhet/slutliga-inkomster-och-skatter-2016/
 
-[2]: OECD, 2015: OECD Income inequality data update: Sweden. oecd.org
+Statistiska centralbyrån, 31.01.2018: Inkomsterna ökade 2005-2016, och mest för kvinnor. scb.se
 
-[3]: Hanell, Tove, 12.05.2018: Var du bor avgör när du dör. svt.se
+[2]: http://www.oecd.org/sweden/OECD-Income-Inequality-Sweden.pdf
 
-[4]: Statistiska centralbyrån, 2018: Förväntad medellivslängd 2013-2017 jämfört med 2008-2012. scb.se
+OECD, 2015: OECD Income inequality data update: Sweden. oecd.org
 
-[5]: Regeringskansliet, 19.12.2017: Fortsatt konjunkturuppgång nästa år. regeringen.se
+[3]: https://www.svt.se/nyheter/val2014/hogutbildad-i-danderyd-lever-18-ar-langre-an-lagutbildad-i-varby
 
-[6]: Kjellgren, Torsten, 2017: Reformer är möjliga – Tre fullt finansierade reformer för ett mer rättvist och jämlikt Sverige. Tankesmedjan Tiden
+Hanell, Tove, 12.05.2018: Var du bor avgör när du dör. svt.se
 
-[7]: Nyköpings kommun, 2018: Nyköpingsmodellen. nykoping.se
+[4]: http://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/pong/tabell-och-diagram/topplistor-kommuner/forvantad-medellivslangd/
 
-[8]: Leich, Sabine Hanna & Kruse, Wolfgang, 1991: Internationalismus und nationale Interessenvertretung. Zur Geschichte der internationalen Gewerkschaftsbewegung. Köln.
+Statistiska centralbyrån, 2018: Förväntad medellivslängd 2013-2017 jämfört med 2008-2012. scb.se
 
-[9]: Statistiska centralbyrån, 2016: Förtroendevalda i kommuner och landsting 2015 (Demokratistatistik rapport 22). Stockholm: SCB
+[5]: http://www.regeringen.se/pressmeddelanden/2017/12/fortsatt-konjunkturuppgang-nasta-ar/
 
-[10]: Segerstedtinstitutet, 2018: Toleransprojektet. segerstedtinstitutet.gu.se
+Regeringskansliet, 19.12.2017: Fortsatt konjunkturuppgång nästa år. regeringen.se
+
+[6]: http://tankesmedjantiden.se/rapport/reformer-ar-mojliga-tre-fullt-finansierade-reformer-ett-mer-rattvist-och-jamlikt-sverige/
+
+Kjellgren, Torsten, 2017: Reformer är möjliga – Tre fullt finansierade reformer för ett mer rättvist och jämlikt Sverige. Tankesmedjan Tiden
+
+[7]: https://nykoping.se/Kommun--politik/Nyhetsarkiv/2017/Nykopingpolitiker-vinner-innovationspris/
+
+Nyköpings kommun, 2018: Nyköpingsmodellen. nykoping.se
+
+[8]: https://books.google.se/books/about/Internationalismus_und_nationale_Interes.html?id=J8VIAAAAYAAJ&redir_esc=y
+
+Leich, Sabine Hanna & Kruse, Wolfgang, 1991: Internationalismus und nationale Interessenvertretung. Zur Geschichte der internationalen Gewerkschaftsbewegung. Köln.
+
+[9]:https://www.scb.se/Statistik/_Publikationer/ME0001_2015A01_BR_ME09BR1602.pdf
+
+Statistiska centralbyrån, 2016: Förtroendevalda i kommuner och landsting 2015 (Demokratistatistik rapport 22). Stockholm: SCB
+
+[10]: https://segerstedtinstitutet.gu.se/samverkan/toleransprojektet
+
+Segerstedtinstitutet, 2018: Toleransprojektet. segerstedtinstitutet.gu.se
