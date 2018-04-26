@@ -9,14 +9,15 @@ Så knäcker vi SD-koden -- en handbok för dig som vill göra skillnad är utgi
 Målet är att Så knäcker vi SD-koden ska vara en handbok som ständigt utvecklas. Har du fler goda exempel eller idéer? Tycker du att vi har missat något? Hör av dig till [info@nfps.se]. Det här är bara början.
 
 ## Innehåll
-- Det handlar om Sverige
-- Håll ihop
-- Skapa framtidstro
-- Bemöt oron
-- Stå upp för dina värderingar
-- Hur vinner vi debatten mot SD?
+- [Det handlar om Sverige](#det-handlar-om-Sverige)
+- [Håll ihop](#håll-ihop)
+- [Skapa framtidstro](#skapa-framtidstro)
+- [Bemöt oron](#bemöt-oron)
+- [Stå upp för dina värderingar](#stå-upp-för-dina-värderingar)
+- [Hur vinner vi debatten mot SD?](#hur-vinner-vi-debatten-mot-sd)
 
-## Det handlar om Sverige -- Inte Sverigedemokraterna
+## Det handlar om Sverige
+**Inte Sverigedemokraterna**
 
 För att knäcka SD-koden be­höver vi förstå hur lite den handlar om Sverige­demokraterna – och hur mycket den handlar om Sverige. 
 
@@ -85,7 +86,8 @@ I många brittiska städer har gräs­rots­rörelsen ”Hope not Hate” samlat
 
 Sträck ut en hand till lokala organisationer. Hur kan ni skapa mötes­platser och på­verka lokal­samhället till­sammans?
 
-## Skapa framtidstro -- I varje väljares vardag
+## Skapa framtidstro
+**I varje väljares vardag**
 
 En skola som hotas av ned­läggning, en in­dragen buss­linje, lång­tids­arbets­löshet eller att ut­sättas för brott är bara några vardagliga exempel som kan göra att man känner att utvecklingen går åt fel håll. Att samhället slutat bli bättre.
 
@@ -129,7 +131,8 @@ Utan en framtids­vision finns det ingen mening att be­driva politik. Arbetar­
 
 Skapa en framtidsvision för ditt lokalsamhälle, något som människor kan tro på. En framtidsvision som lyfter möjligheter och möter de utmaningar som ert område har i dag. Formulera förslag och idéer som kan ta samhället dit. Gör det själv och gör det med din förening. Stärk människors tro på ert lokalsamhälles framtid.
 
-## Bemöt oron -- Presentera lösningar på människors problem
+## Bemöt oron
+**Presentera lösningar på människors problem**
 
 Oron är inte alltid be­rättigad. Ofta späs den på av en o­proportionerligt stor politisk debatt både i sociala medier och i etablerade medier. Men ibland är oron i allra högsta grad befogad.
 
@@ -199,7 +202,8 @@ I dag är fler än 20 kommuner involverade i projektet. Varför inte lägga ett 
 3.	Se till att du alltid kan få stöd av en vän/kamrat om det skulle kännas tungt i arbetet.
 4.	Gör gemensam sak med arbetsgivaren.
 
-## Hur vinner vi debatten mot SD? Våra fem tips
+## Hur vinner vi debatten mot SD?
+**Våra fem tips**
 
 Även om att knäcka SD-koden i själva verket handlar väldigt lite om Sverigedemokraterna så är Sverigedemokraterna det tydligaste symptomet på de problem vi lyfter i den här handboken. Därför måste vi fundera på hur vi ska förhålla oss till Sverigedemokraterna som parti.
 
